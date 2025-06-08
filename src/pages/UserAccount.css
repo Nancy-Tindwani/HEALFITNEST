@@ -1,0 +1,10 @@
+.container{
+    background-color: #f4f6f8;
+}
+.title{
+    display: flex;
+    justify-content: flex-start;
+}
+.box-container{
+    margin: 1.5rem;
+}

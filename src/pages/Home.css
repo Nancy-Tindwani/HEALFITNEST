@@ -1,0 +1,30 @@
+.image-container {
+  position: relative;
+  padding: 10px;
+
+}
+.image-container img {
+  position: relative;
+  z-index: 1;
+  display: block;
+  height: 500px;
+  width: 800px;
+  object-fit: contain;
+  padding-left: 1rem;
+}
+.text {
+  width: 50%;
+  position: absolute;
+  color: #397d02;
+  right: 5px;
+  top: 30%;
+  text-align: center;
+}
+.text-author{
+    width: 540px;
+    position: absolute;
+    color: #397d02;
+    right: 5px;
+    bottom: 35%;
+    text-align: center;  
+}
